@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1769497529575,
+      "tag": "0000_flippant_doctor_octopus",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1769558298722,
+      "tag": "0001_add_search_indexes",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1769558338000,
+      "tag": "0002_update_content_type",
+      "breakpoints": true
+    }
+  ]
+}
